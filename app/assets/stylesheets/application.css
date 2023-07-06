@@ -13,7 +13,10 @@
  *= require_tree .
  *= require_self
  */
+<<<<<<< HEAD
 
  *{
   box-sizing: border-box;
  }
+=======
+>>>>>>> parent of 1054f57 (要素サイズの調整)
